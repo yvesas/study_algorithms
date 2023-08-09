@@ -16,6 +16,12 @@ let n = 3
 // let nums2 = [1]
 // let n = 1
 
+// CASE 4
+// let nums1 = [-1,0,0,3,3,3,0,0,0]
+// let m = 6
+// let nums2 = [1,2,2]
+// let n = 3
+
 
 /**
  Do not return anything, modify nums1 in-place instead.
